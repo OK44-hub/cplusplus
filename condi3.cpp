@@ -1,0 +1,16 @@
+#include<iostream>
+using namespace std;
+int main(){
+int num;
+cin>> num<< endl;
+cout<< "enter the number: "
+
+
+
+
+
+
+
+
+return 0;
+}
